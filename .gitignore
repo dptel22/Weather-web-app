@@ -2,3 +2,5 @@
 .venv
 /student_project
 /App+Design.png
+/project.py
+.env
